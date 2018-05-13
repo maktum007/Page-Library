@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 4038696061,
+  "duration": 4326844373,
   "status": "passed"
 });
 formatter.scenario({
@@ -42,7 +42,7 @@ formatter.match({
   "location": "Step_definition.launch_the_site()"
 });
 formatter.result({
-  "duration": 2521364549,
+  "duration": 35277939686,
   "status": "passed"
 });
 formatter.match({
@@ -55,29 +55,29 @@ formatter.match({
   "location": "Step_definition.check_the_tittle_with_data(String)"
 });
 formatter.result({
-  "duration": 13235869,
+  "duration": 13489986,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_definition.Homepage_should_be_displayed()"
 });
 formatter.result({
-  "duration": 1482001379,
+  "duration": 1635544183,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_definition.close_site()"
 });
 formatter.result({
-  "duration": 2326087769,
+  "duration": 146944371,
   "status": "passed"
 });
 formatter.after({
-  "duration": 283265,
+  "duration": 132191,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3132292587,
+  "duration": 3188726379,
   "status": "passed"
 });
 formatter.scenario({
@@ -118,7 +118,7 @@ formatter.match({
   "location": "Step_definition.launch_the_site()"
 });
 formatter.result({
-  "duration": 2565143371,
+  "duration": 14244445029,
   "status": "passed"
 });
 formatter.match({
@@ -131,7 +131,7 @@ formatter.match({
   "location": "Step_definition.enter_the_userid_with_data(String)"
 });
 formatter.result({
-  "duration": 107641548,
+  "duration": 114281034,
   "status": "passed"
 });
 formatter.match({
@@ -144,22 +144,22 @@ formatter.match({
   "location": "Step_definition.check_the_userid_with_criteria(String)"
 });
 formatter.result({
-  "duration": 50100148,
+  "duration": 41720429,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_definition.close_site()"
 });
 formatter.result({
-  "duration": 118773454,
+  "duration": 2086051413,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34074,
+  "duration": 57885,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3082635400,
+  "duration": 3373087191,
   "status": "passed"
 });
 formatter.scenario({
@@ -200,7 +200,7 @@ formatter.match({
   "location": "Step_definition.launch_the_site()"
 });
 formatter.result({
-  "duration": 2568012969,
+  "duration": 10337833005,
   "status": "passed"
 });
 formatter.match({
@@ -213,7 +213,7 @@ formatter.match({
   "location": "Step_definition.enter_the_userid_with_data(String)"
 });
 formatter.result({
-  "duration": 109277506,
+  "duration": 94616691,
   "status": "passed"
 });
 formatter.match({
@@ -226,22 +226,22 @@ formatter.match({
   "location": "Step_definition.check_the_userid_with_criteria(String)"
 });
 formatter.result({
-  "duration": 44331805,
+  "duration": 56967069,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_definition.close_site()"
 });
 formatter.result({
-  "duration": 131722773,
+  "duration": 200871060,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31200,
+  "duration": 27506,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3186365836,
+  "duration": 3203423731,
   "status": "passed"
 });
 formatter.scenario({
@@ -282,7 +282,7 @@ formatter.match({
   "location": "Step_definition.launch_the_site()"
 });
 formatter.result({
-  "duration": 2465827764,
+  "duration": 17550962054,
   "status": "passed"
 });
 formatter.match({
@@ -295,7 +295,7 @@ formatter.match({
   "location": "Step_definition.enter_the_userid_with_data(String)"
 });
 formatter.result({
-  "duration": 82732695,
+  "duration": 84614970,
   "status": "passed"
 });
 formatter.match({
@@ -308,18 +308,18 @@ formatter.match({
   "location": "Step_definition.check_the_userid_with_criteria(String)"
 });
 formatter.result({
-  "duration": 45632771,
+  "duration": 50935986,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_definition.close_site()"
 });
 formatter.result({
-  "duration": 242724501,
+  "duration": 201670361,
   "status": "passed"
 });
 formatter.after({
-  "duration": 30379,
+  "duration": 75127,
   "status": "passed"
 });
 });
